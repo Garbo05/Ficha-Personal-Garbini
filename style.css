@@ -63,10 +63,11 @@ header h1{
     .ficha{
         display: flex;
         flex-direction: column;
+        margin-left: 2.5rem;
     }
     .ficha .foto_personal{
         justify-content: center;
-        padding-top: 7rem;
+        padding-top: 3rem;
         width: 20rem;
         margin: 3rem;
         margin-top: 16rem;
